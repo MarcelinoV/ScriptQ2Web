@@ -1,7 +1,7 @@
 import requests
 
 api_endpt = 'https://pastebin.com/api/api_post.php' # URL where POST request is sent
-api_key = '3ae9f18ac5db686bb577ad9987fc2282' # API Developer key
+api_key = 'XXXXXXXXXXXXXXXXXX' # API Developer key
 
 file = open("testfile.txt", "r") # function to open text file in program
 source = file.read() # function to print text file
